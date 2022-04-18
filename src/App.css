@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  font-family: cursive;
+  background-color: rgb(176, 155, 190);
+  height: 200vh;
+}
+
+.spin{
+color: brown;
+}
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 15%;
+  border-radius: 80px;
+  background: linear-gradient(rgb(134, 83, 168),rgb(39, 12, 70));
+  border: 10px solid #fff;
+  margin: 20%;
+  color: white;
+}
+.crd{
+  color: rgb(39, 12, 70);
+}
